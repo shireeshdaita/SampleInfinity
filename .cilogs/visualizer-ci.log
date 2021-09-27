@@ -1,0 +1,942 @@
+[2021-09-26 13:45:37.916] [INFO] ci - 
+ 
+        -------------------------------
+               Kony CI v9.2.28
+        -------------------------------
+         node version: v14.17.3
+
+[2021-09-26 13:45:48.052] [DEBUG] ci -  ➠ Pre-build validations
+[2021-09-26 13:45:48.060] [INFO] ci - ✓ ANT_HOME
+[2021-09-26 13:45:48.065] [INFO] ci - ✓ javaloc
+[2021-09-26 13:45:48.076] [INFO] ci - ✓ androidHome
+[2021-09-26 13:45:48.090] [INFO] ci - ✓ java version
+[2021-09-26 13:45:48.102] [ERROR] ci - Build Failed!
+- CustomError: ant version mismatch: required '1.10.8' found '1.8.2'
+    at e (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:3424)
+    at D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:2965
+    at Array.forEach (<anonymous>)
+    at d (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:2953)
+    at Object.a.preBuildValidations (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:846)
+    at runApplicationBuild (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\BuildManager.js:1:1386)
+    at Object.<anonymous> (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\BuildManager.js:1:7185)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47 {
+  code: 58
+}
+[2021-09-26 13:49:58.004] [INFO] ci - 
+ 
+        -------------------------------
+               Kony CI v9.2.28
+        -------------------------------
+         node version: v14.17.3
+
+[2021-09-26 13:50:05.918] [DEBUG] ci -  ➠ Pre-build validations
+[2021-09-26 13:50:05.920] [INFO] ci - ✓ ANT_HOME
+[2021-09-26 13:50:05.924] [INFO] ci - ✓ javaloc
+[2021-09-26 13:50:05.930] [INFO] ci - ✓ androidHome
+[2021-09-26 13:50:05.935] [INFO] ci - ✓ java version
+[2021-09-26 13:50:05.939] [ERROR] ci - Build Failed!
+- CustomError: ant version mismatch: required '1.10.8' found '1.8.2'
+    at e (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:3424)
+    at D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:2965
+    at Array.forEach (<anonymous>)
+    at d (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:2953)
+    at Object.a.preBuildValidations (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:846)
+    at runApplicationBuild (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\BuildManager.js:1:1386)
+    at Object.<anonymous> (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\BuildManager.js:1:7185)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47 {
+  code: 58
+}
+[2021-09-26 13:52:58.282] [INFO] ci - 
+ 
+        -------------------------------
+               Kony CI v9.2.28
+        -------------------------------
+         node version: v14.17.3
+
+[2021-09-26 13:53:03.507] [DEBUG] ci -  ➠ Pre-build validations
+[2021-09-26 13:53:03.509] [INFO] ci - ✓ ANT_HOME
+[2021-09-26 13:53:03.512] [INFO] ci - ✓ javaloc
+[2021-09-26 13:53:03.516] [INFO] ci - ✓ androidHome
+[2021-09-26 13:53:03.521] [INFO] ci - ✓ java version
+[2021-09-26 13:53:03.525] [ERROR] ci - Build Failed!
+- CustomError: ant version mismatch: required '1.10.8' found '1.8.2'
+    at e (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:3424)
+    at D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:2965
+    at Array.forEach (<anonymous>)
+    at d (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:2953)
+    at Object.a.preBuildValidations (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:846)
+    at runApplicationBuild (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\BuildManager.js:1:1386)
+    at Object.<anonymous> (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\BuildManager.js:1:7185)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47 {
+  code: 58
+}
+[2021-09-26 13:54:29.726] [INFO] ci - 
+ 
+        -------------------------------
+               Kony CI v9.2.28
+        -------------------------------
+         node version: v14.17.3
+
+[2021-09-26 13:54:35.052] [DEBUG] ci -  ➠ Pre-build validations
+[2021-09-26 13:54:35.057] [INFO] ci - ✓ ANT_HOME
+[2021-09-26 13:54:35.061] [INFO] ci - ✓ javaloc
+[2021-09-26 13:54:35.067] [INFO] ci - ✓ androidHome
+[2021-09-26 13:54:35.073] [INFO] ci - ✓ java version
+[2021-09-26 13:54:35.076] [ERROR] ci - Build Failed!
+- CustomError:  ant 1.10.8 - not found
+    at e (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:3194)
+    at D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:2965
+    at Array.forEach (<anonymous>)
+    at d (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:2953)
+    at Object.a.preBuildValidations (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:846)
+    at runApplicationBuild (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\BuildManager.js:1:1386)
+    at Object.<anonymous> (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\BuildManager.js:1:7185)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47 {
+  code: 58
+}
+[2021-09-26 13:58:28.192] [INFO] ci - 
+ 
+        -------------------------------
+               Kony CI v9.2.28
+        -------------------------------
+         node version: v14.17.3
+
+[2021-09-26 13:58:32.796] [DEBUG] ci -  ➠ Pre-build validations
+[2021-09-26 13:58:32.800] [INFO] ci - ✓ ANT_HOME
+[2021-09-26 13:58:32.804] [INFO] ci - ✓ javaloc
+[2021-09-26 13:58:32.808] [INFO] ci - ✓ androidHome
+[2021-09-26 13:58:32.813] [INFO] ci - ✓ java version
+[2021-09-26 13:58:32.816] [ERROR] ci - Build Failed!
+- CustomError:  ant 1.10.8 - not found
+    at e (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:3194)
+    at D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:2965
+    at Array.forEach (<anonymous>)
+    at d (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:2953)
+    at Object.a.preBuildValidations (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:846)
+    at runApplicationBuild (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\BuildManager.js:1:1386)
+    at Object.<anonymous> (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\BuildManager.js:1:7185)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47 {
+  code: 58
+}
+[2021-09-26 14:13:57.335] [INFO] ci - 
+ 
+        -------------------------------
+               Kony CI v9.2.28
+        -------------------------------
+         node version: v14.17.3
+
+[2021-09-26 14:14:03.140] [DEBUG] ci -  ➠ Pre-build validations
+[2021-09-26 14:14:03.149] [INFO] ci - ✓ ANT_HOME
+[2021-09-26 14:14:03.152] [INFO] ci - ✓ javaloc
+[2021-09-26 14:14:03.156] [INFO] ci - ✓ androidHome
+[2021-09-26 14:14:03.161] [INFO] ci - ✓ java version
+[2021-09-26 14:14:03.161] [INFO] ci - ✓ ant version
+[2021-09-26 14:14:03.164] [ERROR] ci - Build Failed!
+- CustomError: node version mismatch: required '15.4.0' found '14.17.3'
+    at e (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:3424)
+    at D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:2965
+    at Array.forEach (<anonymous>)
+    at d (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:2953)
+    at Object.a.preBuildValidations (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:846)
+    at runApplicationBuild (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\BuildManager.js:1:1386)
+    at Object.<anonymous> (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\BuildManager.js:1:7185)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47 {
+  code: 59
+}
+[2021-09-26 14:36:42.041] [INFO] ci - 
+ 
+        -------------------------------
+               Kony CI v9.2.28
+        -------------------------------
+         node version: v14.17.3
+
+[2021-09-26 14:36:47.113] [DEBUG] ci -  ➠ Pre-build validations
+[2021-09-26 14:36:47.117] [INFO] ci - ✓ ANT_HOME
+[2021-09-26 14:36:47.124] [INFO] ci - ✓ javaloc
+[2021-09-26 14:36:47.128] [INFO] ci - ✓ androidHome
+[2021-09-26 14:36:47.133] [INFO] ci - ✓ java version
+[2021-09-26 14:36:47.133] [INFO] ci - ✓ ant version
+[2021-09-26 14:36:47.137] [ERROR] ci - Build Failed!
+- CustomError: node version mismatch: required '15.4.0' found '14.17.3'
+    at e (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:3424)
+    at D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:2965
+    at Array.forEach (<anonymous>)
+    at d (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:2953)
+    at Object.a.preBuildValidations (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\utils\validationUtils.js:1:846)
+    at runApplicationBuild (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\BuildManager.js:1:1386)
+    at Object.<anonymous> (D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\BuildManager.js:1:7185)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47 {
+  code: 59
+}
+[2021-09-26 14:49:45.044] [INFO] ci - 
+ 
+        -------------------------------
+               Kony CI v9.2.28
+        -------------------------------
+         node version: v15.4.0
+
+[2021-09-26 14:49:59.692] [DEBUG] ci -  ➠ Pre-build validations
+[2021-09-26 14:49:59.697] [INFO] ci - ✓ ANT_HOME
+[2021-09-26 14:49:59.703] [INFO] ci - ✓ javaloc
+[2021-09-26 14:49:59.714] [INFO] ci - ✓ androidHome
+[2021-09-26 14:49:59.725] [INFO] ci - ✓ java version
+[2021-09-26 14:49:59.727] [INFO] ci - ✓ ant version
+[2021-09-26 14:49:59.730] [INFO] ci - ✓ node version
+[2021-09-26 14:49:59.731] [INFO] ci -  xcode 9.0 - not found
+[2021-09-26 14:49:59.734] [DEBUG] ~~~~ - Close Current Watcher
+[2021-09-26 14:49:59.749] [INFO] ~~~~ - Validating and Repairing the project structure: D:\Personel\Quantam Fabric\SampleJenkins
+[2021-09-26 14:49:59.757] [INFO] ~~~~ - Validating project structure using validator template: '9.0'
+[2021-09-26 14:50:00.527] [INFO] ~~~~ - Validating project themes: D:\Personel\Quantam Fabric\SampleJenkins
+[2021-09-26 14:50:00.528] [INFO] ~~~~ - Project dir:  D:\Personel\Quantam Fabric\SampleJenkins
+[2021-09-26 14:50:00.532] [INFO] ~~~~ - Theme dir, size:  D:\Personel\Quantam Fabric\SampleJenkins\themes\defaultTheme 31
+[2021-09-26 14:50:00.607] [DEBUG] ~~~~ -  ::::::::: Custom themes: []
+[2021-09-26 14:50:00.609] [INFO] ~~~~ - 
+Project dir:  D:\Personel\Quantam Fabric\SampleJenkins 
+No of uniq skin ids:  31
+[2021-09-26 14:50:00.610] [INFO] ~~~~ - 
+Skin kuid issues:  0 
+Theme skin issues:  0 
+Widget skin issues:  0 
+Widget psp skin issues:  0 
+Widget disabled skin issues: 0
+[2021-09-26 14:50:00.612] [INFO] ci - 
+[2021-09-26 14:50:00.614] [INFO] ci - andtargetsdkkey selected is undefined
+[2021-09-26 14:50:00.628] [INFO] ci - andtargetsdkkey selected API Level is 29
+[2021-09-26 14:50:00.631] [INFO] ci - andweartargetsdkkey selected is undefined
+[2021-09-26 14:50:00.640] [DEBUG] ci -  Done... 
+
+[2021-09-26 14:50:00.648] [DEBUG] ci - ⚀ Loading ... D:\Personel\Quantam Fabric\SampleJenkins\projectProperties.json
+[2021-09-26 14:50:00.653] [DEBUG] ci - ⚀ Loading ... D:\Personel\Quantam Fabric\bundles\com.kony.studio.viz.core.win64\konywebstudio\kbuild\config\HeadlessBuild-Default.json
+[2021-09-26 14:50:00.662] [DEBUG] ci - ⚀ Loading ... D:\Personel\Quantam Fabric\SampleJenkins\HeadlessBuild.properties
+[2021-09-26 14:50:00.685] [INFO] ci - Cleaning binaries location...
+[2021-09-26 14:50:00.687] [INFO] ci - D:\Personel\Quantam Fabric\SampleJenkins\binaries\android deleted.
+[2021-09-26 14:50:00.688] [INFO] ci - Cleaning webapps location...
+[2021-09-26 14:50:00.689] [INFO] ci - 
+[2021-09-26 14:50:02.711] [INFO] ci - 
+[2021-09-26 14:50:12.393] [DEBUG] ci - Upgrade native apis...
+[2021-09-26 14:50:12.398] [INFO] ci - NFIs in your project are upto date. No upgrade required.
+[2021-09-26 14:50:12.413] [INFO] ci - ‼︎ Service config is not provided. Skip setting service doc.
+[2021-09-26 14:50:12.415] [INFO] ci - D:\Personel\Quantam Fabric\bundles\com.kony.mobile.fabric.client.sdk
+[2021-09-26 14:50:12.427] [INFO] ci - 
+[2021-09-26 14:50:12.454] [DEBUG] ~~~~ - Delete native framework from workspace
+[2021-09-26 14:50:12.460] [DEBUG] ~~~~ - Deleting  D:\Personel\Quantam Fabric\.nativebindings\Android\4.0\Kony_FileStorage-Android-4.0.zip
+[2021-09-26 14:50:12.468] [DEBUG] ~~~~ - Save nativeapi.json after deleting:  Kony_FileStorage-Android-4.0
+[2021-09-26 14:50:12.472] [DEBUG] ~~~~ - Delete native framework from project: /SampleJenkins/--self--
+[2021-09-26 14:50:12.477] [DEBUG] ~~~~ - Delete api intellisense: Kony_FileStorage-Android-4.0
+[2021-09-26 14:50:12.489] [DEBUG] ~~~~ - Delete unzip dir: D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\Android\4.0\Kony_FileStorage-Android-4.0
+[2021-09-26 14:50:12.490] [DEBUG] ~~~~ - Deleting  D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\Android\4.0\Kony_FileStorage-Android-4.0.zip
+[2021-09-26 14:50:12.494] [DEBUG] ~~~~ - Save nativeapi.json after deleting:  Kony_FileStorage-Android-4.0
+[2021-09-26 14:50:12.665] [DEBUG] ~~~~ - Delete native framework from workspace
+[2021-09-26 14:50:12.671] [DEBUG] ~~~~ - Deleting  D:\Personel\Quantam Fabric\.nativebindings\3.0\iOS\14.3\Kony_FileStorage-iOS-14.3.zip
+[2021-09-26 14:50:12.678] [DEBUG] ~~~~ - Save nativeapi.json after deleting:  Kony_FileStorage-iOS-14.3
+[2021-09-26 14:50:12.682] [DEBUG] ~~~~ - Delete native framework from project: /SampleJenkins/--self--
+[2021-09-26 14:50:12.811] [DEBUG] ~~~~ - Delete api intellisense: Kony_FileStorage-iOS-14.3
+[2021-09-26 14:50:12.815] [DEBUG] ~~~~ - Delete unzip dir: D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\iOS\14.3\Kony_FileStorage-iOS-14.3
+[2021-09-26 14:50:12.816] [DEBUG] ~~~~ - Deleting  D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\iOS\14.3\Kony_FileStorage-iOS-14.3.zip
+[2021-09-26 14:50:12.820] [DEBUG] ~~~~ - Save nativeapi.json after deleting:  Kony_FileStorage-iOS-14.3
+[2021-09-26 14:50:12.939] [DEBUG] ~~~~ - Delete native framework from workspace
+[2021-09-26 14:50:12.942] [DEBUG] ~~~~ - Deleting  D:\Personel\Quantam Fabric\.nativebindings\Android\4.0\Kony_SDKCommons-Android-4.0.zip
+[2021-09-26 14:50:12.945] [DEBUG] ~~~~ - Save nativeapi.json after deleting:  Kony_SDKCommons-Android-4.0
+[2021-09-26 14:50:12.947] [DEBUG] ~~~~ - Delete native framework from project: /SampleJenkins/--self--
+[2021-09-26 14:50:12.953] [DEBUG] ~~~~ - Delete api intellisense: Kony_SDKCommons-Android-4.0
+[2021-09-26 14:50:12.954] [DEBUG] ~~~~ - Delete unzip dir: D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\Android\4.0\Kony_SDKCommons-Android-4.0
+[2021-09-26 14:50:12.955] [DEBUG] ~~~~ - Deleting  D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\Android\4.0\Kony_SDKCommons-Android-4.0.zip
+[2021-09-26 14:50:12.958] [DEBUG] ~~~~ - Save nativeapi.json after deleting:  Kony_SDKCommons-Android-4.0
+[2021-09-26 14:50:13.087] [DEBUG] ~~~~ - Delete native framework from workspace
+[2021-09-26 14:50:13.089] [DEBUG] ~~~~ - Deleting  D:\Personel\Quantam Fabric\.nativebindings\3.0\iOS\14.3\Kony_SDKCommons-iOS-14.3.zip
+[2021-09-26 14:50:13.093] [DEBUG] ~~~~ - Save nativeapi.json after deleting:  Kony_SDKCommons-iOS-14.3
+[2021-09-26 14:50:13.096] [DEBUG] ~~~~ - Delete native framework from project: /SampleJenkins/--self--
+[2021-09-26 14:50:13.236] [DEBUG] ~~~~ - Delete api intellisense: Kony_SDKCommons-iOS-14.3
+[2021-09-26 14:50:13.239] [DEBUG] ~~~~ - Delete unzip dir: D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\iOS\14.3\Kony_SDKCommons-iOS-14.3
+[2021-09-26 14:50:13.239] [DEBUG] ~~~~ - Deleting  D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\iOS\14.3\Kony_SDKCommons-iOS-14.3.zip
+[2021-09-26 14:50:13.245] [DEBUG] ~~~~ - Save nativeapi.json after deleting:  Kony_SDKCommons-iOS-14.3
+[2021-09-26 14:50:13.381] [DEBUG] ~~~~ - Delete native framework from workspace
+[2021-09-26 14:50:13.384] [DEBUG] ~~~~ - Deleting  D:\Personel\Quantam Fabric\.nativebindings\Android\4.0\Kony_SyncV2-Android-4.0.zip
+[2021-09-26 14:50:13.390] [DEBUG] ~~~~ - Save nativeapi.json after deleting:  Kony_SyncV2-Android-4.0
+[2021-09-26 14:50:13.397] [DEBUG] ~~~~ - Delete native framework from project: /SampleJenkins/--self--
+[2021-09-26 14:50:13.416] [DEBUG] ~~~~ - Delete api intellisense: Kony_SyncV2-Android-4.0
+[2021-09-26 14:50:13.419] [DEBUG] ~~~~ - Delete unzip dir: D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\Android\4.0\Kony_SyncV2-Android-4.0
+[2021-09-26 14:50:13.420] [DEBUG] ~~~~ - Deleting  D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\Android\4.0\Kony_SyncV2-Android-4.0.zip
+[2021-09-26 14:50:13.424] [DEBUG] ~~~~ - Save nativeapi.json after deleting:  Kony_SyncV2-Android-4.0
+[2021-09-26 14:50:13.636] [DEBUG] ~~~~ - Delete native framework from workspace
+[2021-09-26 14:50:13.640] [DEBUG] ~~~~ - Deleting  D:\Personel\Quantam Fabric\.nativebindings\3.0\iOS\14.3\Kony_SyncV2-iOS-14.3.zip
+[2021-09-26 14:50:13.645] [DEBUG] ~~~~ - Save nativeapi.json after deleting:  Kony_SyncV2-iOS-14.3
+[2021-09-26 14:50:13.650] [DEBUG] ~~~~ - Delete native framework from project: /SampleJenkins/--self--
+[2021-09-26 14:50:13.792] [DEBUG] ~~~~ - Delete api intellisense: Kony_SyncV2-iOS-14.3
+[2021-09-26 14:50:13.795] [DEBUG] ~~~~ - Delete unzip dir: D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\iOS\14.3\Kony_SyncV2-iOS-14.3
+[2021-09-26 14:50:13.796] [DEBUG] ~~~~ - Deleting  D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\iOS\14.3\Kony_SyncV2-iOS-14.3.zip
+[2021-09-26 14:50:13.803] [DEBUG] ~~~~ - Save nativeapi.json after deleting:  Kony_SyncV2-iOS-14.3
+[2021-09-26 14:50:13.934] [DEBUG] ~~~~ - Delete native framework from workspace
+[2021-09-26 14:50:13.937] [WARN] ~~~~ - apikey doesn't exists: Kony_WebSocket-Android-4.0 D:\Personel\Quantam Fabric\.nativebindings\nativeapi.json
+[2021-09-26 14:50:13.937] [DEBUG] ~~~~ - Delete native framework from project: /SampleJenkins/--self--
+[2021-09-26 14:50:13.940] [WARN] ~~~~ - apikey doesn't exists: Kony_WebSocket-Android-4.0 D:\Personel\Quantam Fabric\SampleJenkins\nativeapi.json
+[2021-09-26 14:50:14.067] [DEBUG] ~~~~ - Delete native framework from workspace
+[2021-09-26 14:50:14.071] [WARN] ~~~~ - apikey doesn't exists: Kony_WebSocket-iOS-14.3 D:\Personel\Quantam Fabric\.nativebindings\3.0\nativeapi.json
+[2021-09-26 14:50:14.072] [DEBUG] ~~~~ - Delete native framework from project: /SampleJenkins/--self--
+[2021-09-26 14:50:14.076] [WARN] ~~~~ - apikey doesn't exists: Kony_WebSocket-iOS-14.3 D:\Personel\Quantam Fabric\SampleJenkins\nativeapi.json
+[2021-09-26 14:50:14.149] [DEBUG] ~~~~ - Updating filepath to workspace 'nativeapi.json'
+[2021-09-26 14:50:14.153] [DEBUG] ~~~~ - api key: Kony_FileStorage-Android-4.0 not found in 'D:\Personel\Quantam Fabric\.nativebindings\nativeapi.json', adding now!
+[2021-09-26 14:50:14.158] [DEBUG] ~~~~ - Updated 'D:\Personel\Quantam Fabric\.nativebindings\nativeapi.json' with Kony_FileStorage-Android-4.0
+[2021-09-26 14:50:14.173] [DEBUG] ~~~~ - Copy framework file: D:\Personel\Quantam Fabric\.nativebindings\Android\4.0\Kony_FileStorage-Android-4.0.zip to D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\Android\4.0\Kony_FileStorage-Android-4.0.zip
+[2021-09-26 14:50:14.189] [DEBUG] ~~~~ - delete api def to tern: 200
+[2021-09-26 14:50:14.195] [DEBUG] ~~~~ - delete api def to tern: 200
+[2021-09-26 14:50:14.202] [DEBUG] ~~~~ - delete api def to tern: 200
+[2021-09-26 14:50:14.210] [DEBUG] ~~~~ - delete api def to tern: 200
+[2021-09-26 14:50:14.216] [DEBUG] ~~~~ - delete api def to tern: 200
+[2021-09-26 14:50:14.221] [DEBUG] ~~~~ - delete api def to tern: 200
+[2021-09-26 14:50:14.224] [DEBUG] ~~~~ - Updating filepath to workspace 'nativeapi.json'
+[2021-09-26 14:50:14.235] [DEBUG] ~~~~ - api key: Kony_SDKCommons-Android-4.0 not found in 'D:\Personel\Quantam Fabric\.nativebindings\nativeapi.json', adding now!
+[2021-09-26 14:50:14.242] [DEBUG] ~~~~ - Updated 'D:\Personel\Quantam Fabric\.nativebindings\nativeapi.json' with Kony_SDKCommons-Android-4.0
+[2021-09-26 14:50:14.250] [DEBUG] ~~~~ - Copy framework file: D:\Personel\Quantam Fabric\.nativebindings\Android\4.0\Kony_SDKCommons-Android-4.0.zip to D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\Android\4.0\Kony_SDKCommons-Android-4.0.zip
+[2021-09-26 14:50:14.263] [DEBUG] ~~~~ - api key: Kony_FileStorage-Android-4.0 not found in 'D:\Personel\Quantam Fabric\SampleJenkins\nativeapi.json', adding now!
+[2021-09-26 14:50:14.269] [DEBUG] ~~~~ - Updated 'D:\Personel\Quantam Fabric\SampleJenkins\nativeapi.json' with Kony_FileStorage-Android-4.0
+[2021-09-26 14:50:14.270] [DEBUG] ~~~~ - Import native framework successful.
+[2021-09-26 14:50:14.273] [DEBUG] ~~~~ - Updating filepath to workspace 'nativeapi.json'
+[2021-09-26 14:50:14.280] [DEBUG] ~~~~ - api key: Kony_SyncV2-Android-4.0 not found in 'D:\Personel\Quantam Fabric\.nativebindings\nativeapi.json', adding now!
+[2021-09-26 14:50:14.289] [DEBUG] ~~~~ - Updated 'D:\Personel\Quantam Fabric\.nativebindings\nativeapi.json' with Kony_SyncV2-Android-4.0
+[2021-09-26 14:50:14.292] [DEBUG] ~~~~ - Copy framework file: D:\Personel\Quantam Fabric\.nativebindings\Android\4.0\Kony_SyncV2-Android-4.0.zip to D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\Android\4.0\Kony_SyncV2-Android-4.0.zip
+[2021-09-26 14:50:14.312] [DEBUG] ~~~~ - api key: Kony_SDKCommons-Android-4.0 not found in 'D:\Personel\Quantam Fabric\SampleJenkins\nativeapi.json', adding now!
+[2021-09-26 14:50:14.317] [DEBUG] ~~~~ - Updated 'D:\Personel\Quantam Fabric\SampleJenkins\nativeapi.json' with Kony_SDKCommons-Android-4.0
+[2021-09-26 14:50:14.319] [DEBUG] ~~~~ - Import native framework successful.
+[2021-09-26 14:50:14.332] [DEBUG] ~~~~ - api key: Kony_SyncV2-Android-4.0 not found in 'D:\Personel\Quantam Fabric\SampleJenkins\nativeapi.json', adding now!
+[2021-09-26 14:50:14.338] [DEBUG] ~~~~ - Updated 'D:\Personel\Quantam Fabric\SampleJenkins\nativeapi.json' with Kony_SyncV2-Android-4.0
+[2021-09-26 14:50:14.339] [DEBUG] ~~~~ - Import native framework successful.
+[2021-09-26 14:50:14.443] [DEBUG] ~~~~ - Updating filepath to workspace 'nativeapi.json'
+[2021-09-26 14:50:14.459] [DEBUG] ~~~~ - api key: Kony_FileStorage-iOS-14.3 not found in 'D:\Personel\Quantam Fabric\.nativebindings\3.0\nativeapi.json', adding now!
+[2021-09-26 14:50:14.464] [DEBUG] ~~~~ - Updated 'D:\Personel\Quantam Fabric\.nativebindings\3.0\nativeapi.json' with Kony_FileStorage-iOS-14.3
+[2021-09-26 14:50:14.470] [DEBUG] ~~~~ - Copy framework file: D:\Personel\Quantam Fabric\.nativebindings\3.0\iOS\14.3\Kony_FileStorage-iOS-14.3.zip to D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\iOS\14.3\Kony_FileStorage-iOS-14.3.zip
+[2021-09-26 14:50:14.537] [DEBUG] ~~~~ - Updating filepath to workspace 'nativeapi.json'
+[2021-09-26 14:50:14.541] [DEBUG] ~~~~ - api key: Kony_SyncV2-iOS-14.3 not found in 'D:\Personel\Quantam Fabric\.nativebindings\3.0\nativeapi.json', adding now!
+[2021-09-26 14:50:14.545] [DEBUG] ~~~~ - Updated 'D:\Personel\Quantam Fabric\.nativebindings\3.0\nativeapi.json' with Kony_SyncV2-iOS-14.3
+[2021-09-26 14:50:14.548] [DEBUG] ~~~~ - Copy framework file: D:\Personel\Quantam Fabric\.nativebindings\3.0\iOS\14.3\Kony_SyncV2-iOS-14.3.zip to D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\iOS\14.3\Kony_SyncV2-iOS-14.3.zip
+[2021-09-26 14:50:14.578] [DEBUG] ~~~~ - Updating filepath to workspace 'nativeapi.json'
+[2021-09-26 14:50:14.581] [DEBUG] ~~~~ - api key: Kony_SDKCommons-iOS-14.3 not found in 'D:\Personel\Quantam Fabric\.nativebindings\3.0\nativeapi.json', adding now!
+[2021-09-26 14:50:14.586] [DEBUG] ~~~~ - Updated 'D:\Personel\Quantam Fabric\.nativebindings\3.0\nativeapi.json' with Kony_SDKCommons-iOS-14.3
+[2021-09-26 14:50:14.589] [DEBUG] ~~~~ - Copy framework file: D:\Personel\Quantam Fabric\.nativebindings\3.0\iOS\14.3\Kony_SDKCommons-iOS-14.3.zip to D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\iOS\14.3\Kony_SDKCommons-iOS-14.3.zip
+[2021-09-26 14:50:14.598] [DEBUG] ~~~~ - api key: Kony_FileStorage-iOS-14.3 not found in 'D:\Personel\Quantam Fabric\SampleJenkins\nativeapi.json', adding now!
+[2021-09-26 14:50:14.602] [DEBUG] ~~~~ - Updated 'D:\Personel\Quantam Fabric\SampleJenkins\nativeapi.json' with Kony_FileStorage-iOS-14.3
+[2021-09-26 14:50:14.603] [DEBUG] ~~~~ - Import native framework successful.
+[2021-09-26 14:50:14.720] [DEBUG] ~~~~ - api key: Kony_SyncV2-iOS-14.3 not found in 'D:\Personel\Quantam Fabric\SampleJenkins\nativeapi.json', adding now!
+[2021-09-26 14:50:14.726] [DEBUG] ~~~~ - Updated 'D:\Personel\Quantam Fabric\SampleJenkins\nativeapi.json' with Kony_SyncV2-iOS-14.3
+[2021-09-26 14:50:14.727] [DEBUG] ~~~~ - Import native framework successful.
+[2021-09-26 14:50:14.792] [DEBUG] ~~~~ - api key: Kony_SDKCommons-iOS-14.3 not found in 'D:\Personel\Quantam Fabric\SampleJenkins\nativeapi.json', adding now!
+[2021-09-26 14:50:14.797] [DEBUG] ~~~~ - Updated 'D:\Personel\Quantam Fabric\SampleJenkins\nativeapi.json' with Kony_SDKCommons-iOS-14.3
+[2021-09-26 14:50:14.798] [DEBUG] ~~~~ - Import native framework successful.
+[2021-09-26 14:50:14.798] [DEBUG] ~~~~ - Imported 8 Sync FFI.
+[2021-09-26 14:50:14.799] [INFO] ci - Added default native function APIs.
+[2021-09-26 14:50:14.803] [INFO] ci - 
+[2021-09-26 14:50:14.808] [INFO] ci - Properties has been saved in sdkplugin.properties file.
+[2021-09-26 14:50:14.809] [INFO] ci - Copying sdk files.
+[2021-09-26 14:50:14.817] [INFO] ci - KonySyncLib.js is not found in SDK plugin.
+[2021-09-26 14:50:14.829] [INFO] ci - SDK file is copied.
+[2021-09-26 14:50:14.831] [INFO] ci - D:\Personel\Quantam Fabric\bundles\com.kony.mobile.fabric.client.sdk
+[2021-09-26 14:50:14.837] [INFO] ci - 
+[2021-09-26 14:50:15.068] [INFO] ci - D:\Personel\Quantam Fabric\bundles\com.kony.mobile.fabric.client.sdk
+[2021-09-26 14:50:15.076] [INFO] ci - 
+[2021-09-26 14:50:15.336] [INFO] ci - D:\Personel\Quantam Fabric\bundles\com.kony.mobile.fabric.client.sdk
+[2021-09-26 14:50:15.340] [INFO] ci - 
+[2021-09-26 14:50:15.472] [INFO] ci - D:\Personel\Quantam Fabric\bundles\com.kony.mobile.fabric.client.sdk
+[2021-09-26 14:50:15.481] [INFO] ci - 
+[2021-09-26 14:50:15.488] [INFO] ci - D:\Personel\Quantam Fabric\bundles\com.kony.mobile.fabric.client.sdk
+[2021-09-26 14:50:15.495] [INFO] ci - 
+[2021-09-26 14:50:15.496] [INFO] ci - Start of command line application build.
+[2021-09-26 14:50:15.498] [INFO] ci - Start of Visulaizer Codegen.
+[2021-09-26 14:50:15.499] [INFO] ci - D:\Personel\Quantam Fabric\SampleJenkins
+[2021-09-26 14:50:15.500] [INFO] ci - 
+[2021-09-26 14:50:15.509] [DEBUG] ~~~~ - [ 'defaultTheme' ]
+[2021-09-26 14:50:15.755] [DEBUG] ~~~~ - Saving forms controller actions for channel: mobile
+[2021-09-26 14:50:15.926] [DEBUG] ~~~~ - Saving templates controller actions for channel: mobile and type:  maps
+[2021-09-26 14:50:16.067] [DEBUG] ~~~~ - Saving templates controller actions for channel: mobile and type:  segments
+[2021-09-26 14:50:16.188] [DEBUG] ~~~~ - Saving user widgets controller actions
+[2021-09-26 14:50:16.426] [INFO] ~~~~ - Validating and Repairing the project structure: D:\Personel\Quantam Fabric\SampleJenkins
+[2021-09-26 14:50:16.430] [INFO] ~~~~ - Validating project structure using validator template: '9.0'
+[2021-09-26 14:50:16.750] [INFO] ~~~~ - Validating project themes: D:\Personel\Quantam Fabric\SampleJenkins
+[2021-09-26 14:50:16.750] [INFO] ~~~~ - Project dir:  D:\Personel\Quantam Fabric\SampleJenkins
+[2021-09-26 14:50:16.752] [INFO] ~~~~ - Theme dir, size:  D:\Personel\Quantam Fabric\SampleJenkins\themes\defaultTheme 31
+[2021-09-26 14:50:16.776] [DEBUG] ~~~~ -  ::::::::: Custom themes: []
+[2021-09-26 14:50:16.776] [INFO] ~~~~ - 
+Project dir:  D:\Personel\Quantam Fabric\SampleJenkins 
+No of uniq skin ids:  31
+[2021-09-26 14:50:16.777] [INFO] ~~~~ - 
+Skin kuid issues:  0 
+Theme skin issues:  0 
+Widget skin issues:  0 
+Widget psp skin issues:  0 
+Widget disabled skin issues: 0
+[2021-09-26 14:50:16.783] [INFO] ci - End of Visulaizer Codegen.
+[2021-09-26 14:50:16.788] [DEBUG] ~~~~ - [BUILD] Codegen starts. StartTime: 1632642616788
+[2021-09-26 14:50:17.160] [INFO] ~~~~ - <---Codegeneration Started--->
+[2021-09-26 14:50:17.287] [DEBUG] ~~~~ - [BUILD] Code generation for android
+[2021-09-26 14:50:17.289] [DEBUG] ~~~~ - NO SUCH DIRECTORY TO CLEAN: D:\Personel\Quantam Fabric\.webapps\SampleJenkins\android
+[2021-09-26 14:50:17.292] [DEBUG] ~~~~ - Scripts output directory D:\Personel\Quantam Fabric\.webapps\SampleJenkins\android\src
+[2021-09-26 14:50:17.607] [DEBUG] ~~~~ - Generating com/konymp/E2ECard/E2ECardController for platform android
+[2021-09-26 14:50:17.802] [DEBUG] ~~~~ - Generating Form1Controller for platform android
+[2021-09-26 14:50:17.815] [DEBUG] ~~~~ - Generating konympcarousel1flxController for platform android
+[2021-09-26 14:50:17.827] [DEBUG] ~~~~ - Generating flxSampleRowTemplateController for platform android
+[2021-09-26 14:50:17.844] [DEBUG] ~~~~ - Generating flxSectionHeaderTemplateController for platform android
+[2021-09-26 14:50:18.114] [DEBUG] ~~~~ - [BUILD] Codegen ends. endTime: 1632642618114. Time taken (in ms) : 1326
+[2021-09-26 14:50:18.116] [DEBUG] ~~~~ - [BUILD] Archiving starts. Start time: 1632642618116
+[2021-09-26 14:50:18.122] [DEBUG] ~~~~ - Web Directories created @ D:\Personel\Quantam Fabric\.webapps\SampleJenkins\android
+[2021-09-26 14:50:18.123] [DEBUG] ~~~~ - SPA Directories created @ D:\Personel\Quantam Fabric\.webapps\SampleJenkins
+[2021-09-26 14:50:18.123] [DEBUG] ~~~~ - Directories created @ D:\Personel\Quantam Fabric\.webapps\SampleJenkins
+[2021-09-26 14:50:18.124] [DEBUG] ~~~~ - Populating project SampleJenkins
+[2021-09-26 14:50:18.125] [DEBUG] ~~~~ - USING IDE EVENTS :: true
+[2021-09-26 14:50:20.666] [DEBUG] ~~~~ - Populate Completed
+[2021-09-26 14:50:20.667] [DEBUG] ~~~~ - Building for android
+[2021-09-26 14:50:20.668] [INFO] ~~~~ - Code generation for project 'SampleJenkins' completed.
+[2021-09-26 14:50:20.668] [DEBUG] ~~~~ - Codegen Status :  { android: 'success' }
+[2021-09-26 14:50:20.938] [DEBUG] ~~~~ - [BUILD] Archiving ends. End time: 1632642620937. Time taken (in ms) : 2821
+[2021-09-26 14:50:20.938] [INFO] ci - [ 'android' ]
+[2021-09-26 14:50:20.959] [INFO] ci - 
+[2021-09-26 14:50:21.007] [INFO] ci - Loaded common properties. 
+[2021-09-26 14:50:21.008] [INFO] ci - Platform:android , build status : STARTED
+[2021-09-26 14:50:21.034] [INFO] ci - Minimum SDK API level is 21
+[2021-09-26 14:50:21.036] [INFO] ci - Target SDK API level is 29
+[2021-09-26 14:50:21.036] [INFO] ci - 
+[2021-09-26 14:50:21.055] [INFO] ci - 
+[2021-09-26 14:50:21.099] [INFO] ci - 
+[2021-09-26 14:50:21.121] [INFO] ci - 
+[2021-09-26 14:50:21.179] [INFO] ci - 
+[2021-09-26 14:50:21.195] [INFO] ci - 
+[2021-09-26 14:50:21.235] [INFO] ci - 
+[2021-09-26 14:50:21.268] [INFO] ci - Loaded properties. android
+[2021-09-26 14:50:21.268] [INFO] ci - Start of build for platform : android
+[2021-09-26 14:50:21.268] [INFO] ci - APPFOLDER D:\Personel\Quantam Fabric\temp\SampleJenkins
+[2021-09-26 14:50:21.269] [INFO] ci -  propFilePath D:\Personel\Quantam Fabric\temp\SampleJenkins\build\androidbuild.properties
+[2021-09-26 14:50:21.270] [INFO] ci - Platform:android , build status : INPROGRESS
+[2021-09-26 14:50:21.282] [INFO] ci - Execute task Packageandroid...
+[2021-09-26 14:50:21.283] [INFO] ci -  ANT_HOME: D:\Software\apache-ant-1.10.8\bin\ant
+[2021-09-26 14:50:21.284] [INFO] ci - -propertyfile D:\Personel\Quantam Fabric\temp\SampleJenkins\build\androidbuild.properties -f D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\build.xml -lib D:\Personel\Quantam Fabric\bundles\com.pat.tool.keditor\lib\ant-contrib-0.6.jar -lib D:\Personel\Quantam Fabric\bundles\com.pat.tool.keditor\lib\AntelopeTasks_3.4.0.jar -lib D:\Personel\Quantam Fabric\bundles\com.pat.tool.keditor\lib\antlr-3.3-complete.jar all
+[2021-09-26 14:50:22.500] [INFO] ci - Buildfile: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\build.xml
+[2021-09-26 14:50:22.501] [INFO] ci - 
+[2021-09-26 14:50:23.999] [INFO] ci - init:
+[2021-09-26 14:50:24.342] [INFO] ci - [echo] isLibraryBuild :: false
+[2021-09-26 14:50:24.343] [INFO] ci - [echo] UseSQLCipherFIPS :: false
+[2021-09-26 14:50:24.345] [INFO] ci - [echo] UseOpenSSLLibrary :: false
+[2021-09-26 14:50:24.345] [INFO] ci - [echo] build option :: release
+[2021-09-26 14:50:24.346] [INFO] ci - [echo] andtargetsdkkey :: 29
+[2021-09-26 14:50:24.347] [INFO] ci - 
+[2021-09-26 14:50:24.348] [INFO] ci - [echo] donotAddQueryAllPackages:: ${donotAddQueryAllPackages}
+[2021-09-26 14:50:24.349] [INFO] ci - 
+[2021-09-26 14:50:24.354] [INFO] ci - [echo]  support_arm_32bit  :: false
+[2021-09-26 14:50:24.355] [INFO] ci - 
+[2021-09-26 14:50:24.355] [INFO] ci - [echo]  support_arm_64bit  :: true
+[2021-09-26 14:50:24.356] [INFO] ci - [echo]  support_x86_32bit  :: false
+[2021-09-26 14:50:24.357] [INFO] ci - 
+[2021-09-26 14:50:24.358] [INFO] ci - [echo]  support_x86_64bit  :: false
+[2021-09-26 14:50:24.391] [INFO] ci - [echo] konyapp.dir = D:\Personel\Quantam Fabric\SampleJenkins
+[2021-09-26 14:50:24.392] [INFO] ci - [echo] isIncrementalBuild = true
+[2021-09-26 14:50:24.398] [INFO] ci - [echo] isUniversalApp = false
+[2021-09-26 14:50:24.410] [INFO] ci - [echo] resources.common.folder ... common
+[2021-09-26 14:50:24.411] [INFO] ci - [echo] resources.platform.folder ... mobile/native/android
+[2021-09-26 14:50:24.422] [INFO] ci - [echo] automation mode false
+[2021-09-26 14:50:24.485] [INFO] ci - [delete] Deleting: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\additional.properties
+[2021-09-26 14:50:24.486] [INFO] ci - 
+[2021-09-26 14:50:24.525] [INFO] ci - copyjar:
+[2021-09-26 14:50:24.527] [INFO] ci - 
+[2021-09-26 14:50:24.534] [INFO] ci - [echo] isIncrementalBuild = true and appdir.present = true
+[2021-09-26 14:50:24.535] [INFO] ci - 
+[2021-09-26 14:50:24.550] [INFO] ci - [unjar] Expanding: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\codegen.jar into D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins
+[2021-09-26 14:50:24.551] [INFO] ci - 
+[2021-09-26 14:50:25.826] [INFO] ci - copyextlibs:
+[2021-09-26 14:50:25.828] [INFO] ci - [echo] Copying extlibs ... dev.language = js
+[2021-09-26 14:50:25.829] [INFO] ci - [echo] networktrustconfig = None
+[2021-09-26 14:50:25.830] [INFO] ci - 
+[2021-09-26 14:50:25.838] [INFO] ci - [copy] Copying 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\libs\arm64-v8a
+[2021-09-26 14:50:25.839] [INFO] ci - 
+[2021-09-26 14:50:26.029] [INFO] ci - bundle-features:
+[2021-09-26 14:50:26.112] [INFO] ci - [copy] Copying 52 files to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\libs
+[2021-09-26 14:50:26.508] [INFO] ci - [copy] Copying 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\libs\arm64-v8a
+[2021-09-26 14:50:26.804] [INFO] ci - [delete] Deleting: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\libs\kony-video-widget.jar
+[2021-09-26 14:50:26.809] [INFO] ci - [copy] Copying 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\libs
+[2021-09-26 14:50:26.820] [INFO] ci - [copy] Copying 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\libs
+[2021-09-26 14:50:26.830] [INFO] ci - [copy] Copying 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\libs
+[2021-09-26 14:50:26.837] [INFO] ci - convertAppidInLowerCase:
+[2021-09-26 14:50:26.844] [INFO] ci - gen:
+[2021-09-26 14:50:26.845] [INFO] ci - [echo] Building android source code
+[2021-09-26 14:50:26.857] [INFO] ci - [echo] The value of packagename is com.orgname.SampleJenkins
+[2021-09-26 14:50:26.858] [INFO] ci - [echo] Creating package path: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid/dist/SampleJenkins/src/com//orgname//SampleJenkins
+[2021-09-26 14:50:26.859] [INFO] ci - 
+[2021-09-26 14:50:26.863] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\src\com\orgname\SampleJenkins
+[2021-09-26 14:50:28.975] [INFO] ci - [echo]  usegoogleplaylocationservices: false
+[2021-09-26 14:50:29.010] [INFO] ci - configure-play-auth-dependent-features:
+[2021-09-26 14:50:29.182] [INFO] ci - addGoogleMapEntries:
+[2021-09-26 14:50:29.184] [INFO] ci - [delete] Deleting: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\res\layout\mapv2.xml
+[2021-09-26 14:50:29.196] [INFO] ci - [echo] The value of googlemapv2key is empty
+[2021-09-26 14:50:29.199] [INFO] ci - [copy] Copying 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\res\layout
+[2021-09-26 14:50:29.266] [INFO] ci - add-googleplayservices-gradle-dependencies:
+[2021-09-26 14:50:29.266] [INFO] ci - [echo] libtype = map
+[2021-09-26 14:50:29.303] [INFO] ci - [echo]  MapV2 Metadata-Key: <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="dummy_key"/>
+[2021-09-26 14:50:29.304] [INFO] ci - [echo]        <meta-data android:name="com.google.android.gms.version"        android:value="@integer/google_play_services_version"/> 
+     [echo]  MapV2 Permissions: <permission android:name="com.orgname.SampleJenkins.permission.MAPS_RECEIVE" android:protectionLevel="signature"/>
+[2021-09-26 14:50:29.304] [INFO] ci - [echo]         <uses-permission android:name="com.orgname.SampleJenkins.permission.MAPS_RECEIVE"/>
+     [echo]         <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+[2021-09-26 14:50:29.305] [INFO] ci - [echo]         <uses-feature android:glEsVersion="0x00020000"/>
+[2021-09-26 14:50:29.363] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\src\com\orgname\SampleJenkins
+[2021-09-26 14:50:29.710] [INFO] ci - [echo] The value of andmanifesttags is
+[2021-09-26 14:50:29.711] [INFO] ci - 
+[2021-09-26 14:50:29.713] [INFO] ci - [echo] The value of andapplicationtags is
+[2021-09-26 14:50:29.715] [INFO] ci - 
+[2021-09-26 14:50:29.764] [INFO] ci - [echo] The value of activity_child_tags is
+[2021-09-26 14:50:29.767] [INFO] ci - [echo] appShortcutsMetaData :
+[2021-09-26 14:50:29.788] [INFO] ci - [echo] The value of andapplicationattrs is
+[2021-09-26 14:50:29.789] [INFO] ci - [echo] The value of ismipmapicon is ${ismipmapicon}
+[2021-09-26 14:50:29.795] [INFO] ci - [echo] Setting drawable icon:
+[2021-09-26 14:50:29.833] [INFO] ci - [echo] The value of manifest_tag_attrs is
+[2021-09-26 14:50:29.854] [INFO] ci - [echo] The value of activityattrs is
+[2021-09-26 14:50:29.855] [INFO] ci - 
+[2021-09-26 14:50:29.925] [INFO] ci - makeLauncherChanges:
+[2021-09-26 14:50:29.926] [INFO] ci - [echo] useHeadlessLauncherActivity:${useHeadlessLauncherActivity}
+[2021-09-26 14:50:29.927] [INFO] ci - [echo] useCustomHeadlessLauncherActivity:${useCustomHeadlessLauncherActivity}
+[2021-09-26 14:50:29.927] [INFO] ci - 
+[2021-09-26 14:50:29.928] [INFO] ci - [delete] Deleting: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\src\APPIDHeadlessLauncherActivity.java
+[2021-09-26 14:50:29.929] [INFO] ci - 
+[2021-09-26 14:50:29.981] [INFO] ci - [echo] Min SDK version: minSdkVersion 21
+[2021-09-26 14:50:29.982] [INFO] ci - [echo] Max SDK version:
+[2021-09-26 14:50:29.983] [INFO] ci - 
+[2021-09-26 14:50:29.983] [INFO] ci - [echo] Target SDK version: targetSdkVersion 29
+[2021-09-26 14:50:30.033] [INFO] ci - [echo] ACCESS_BACKGROUND_LOCATION is defined in application manifest entry:  false
+[2021-09-26 14:50:30.034] [INFO] ci - [echo] ACCESS_BACKGROUND_LOCATION is added by location listener type: false
+[2021-09-26 14:50:30.035] [INFO] ci - [echo] enableBatteryOptimizationAPI is defined in androidbuild.properties file : ${enableBatteryOptimizationAPI}
+[2021-09-26 14:50:30.063] [INFO] ci - [echo] enablepushnotifications false
+[2021-09-26 14:50:30.064] [INFO] ci - [echo] enablefcmpushnotifications false
+     [echo] customgcmbroadcastreceiver ${customgcmbroadcastreceiver}
+[2021-09-26 14:50:30.065] [INFO] ci - [echo] customfcmservice ${customfcmservice}
+[2021-09-26 14:50:30.065] [INFO] ci - [echo] FCM GCM
+[2021-09-26 14:50:30.067] [INFO] ci - [echo] Push Notification Permissions:
+[2021-09-26 14:50:30.068] [INFO] ci - [echo] Push Notification Intent Filters: 
+     [echo] Push Notification Intent Receiver:
+[2021-09-26 14:50:30.069] [INFO] ci - [echo] Kony Local Service:
+[2021-09-26 14:50:30.296] [INFO] ci - [echo] push_notification_type.local 0
+[2021-09-26 14:50:30.410] [INFO] ci - [echo] application childtags does not contain  com.konylabs.api.wearable.KonyWearableListenerService
+[2021-09-26 14:50:30.411] [INFO] ci - 
+[2021-09-26 14:50:30.413] [INFO] ci - [echo] watch_background_listener_service =
+[2021-09-26 14:50:30.414] [INFO] ci - 
+[2021-09-26 14:50:30.498] [INFO] ci - [delete] Deleting: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\deeplinkdata.txt
+[2021-09-26 14:50:30.504] [INFO] ci - [echo] Any Density: android:anyDensity ="true"
+[2021-09-26 14:50:30.505] [INFO] ci - [echo] Small Screen: android:smallScreens ="true" 
+     [echo] Normal Screen: android:normalScreens ="true"
+[2021-09-26 14:50:30.506] [INFO] ci - [echo] Large Screen: android:largeScreens ="true" 
+     [echo] xLarge Screen: android:xlargeScreens ="true"
+[2021-09-26 14:50:30.507] [INFO] ci - [echo] Resizable:
+[2021-09-26 14:50:30.561] [INFO] ci - [echo] Install location not defined
+[2021-09-26 14:50:30.589] [INFO] ci - [echo] Permissions set:
+[2021-09-26 14:50:30.590] [INFO] ci - [echo]  <uses-permission android:name="android.permission.INTERNET"/>
+     [echo]  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+[2021-09-26 14:50:30.672] [INFO] ci - [echo]  LOCAL Notification Permissions:
+[2021-09-26 14:50:30.672] [INFO] ci - [echo]  LOCAL Notification Intent Filters:  
+     [echo]  LOCAL Notification Intent Receiver:
+[2021-09-26 14:50:30.962] [INFO] ci - [echo] Google-Pay  :: false
+[2021-09-26 14:50:30.992] [INFO] ci - [echo] useMLImageClassifier  :: ${useMLImageClassifier}
+[2021-09-26 14:50:31.181] [INFO] ci - [echo] build_gradle_attrs_prefix =
+[2021-09-26 14:50:31.202] [INFO] ci - [echo] build_gradle_attrs_suffix =
+[2021-09-26 14:50:31.234] [INFO] ci - [echo] gradle_properties_attrs =
+[2021-09-26 14:50:31.235] [INFO] ci - 
+[2021-09-26 14:50:31.241] [INFO] ci - [echo] gradle_properties_attrs =
+[2021-09-26 14:50:31.242] [INFO] ci - 
+[2021-09-26 14:50:31.320] [INFO] ci - cleanupgradle:
+[2021-09-26 14:50:31.354] [INFO] ci - checkAndIncludeReactNative:
+[2021-09-26 14:50:31.354] [INFO] ci - [echo] enableReactNative :: ${enableReactNative}
+[2021-09-26 14:50:31.419] [INFO] ci - copyassets:
+[2021-09-26 14:50:31.419] [INFO] ci - [echo] Copying the resources to android assets
+[2021-09-26 14:50:31.420] [INFO] ci - [copy] Copying 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets
+[2021-09-26 14:50:31.461] [INFO] ci - [echo] DefaultLocale = ${DefaultLocale}
+[2021-09-26 14:50:31.504] [INFO] ci - writeMainActivityFullNameToAppPropertiesFile:
+[2021-09-26 14:50:31.504] [INFO] ci - [echo] isRelativeClass inside writeAppID.. :${isRelativeClassName}
+     [echo] mainActivityFullyQualifiedName:com.orgname.SampleJenkins.SampleJenkins
+[2021-09-26 14:50:31.523] [INFO] ci - [propertyfile] Creating new property file: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\additional.properties
+[2021-09-26 14:50:31.544] [INFO] ci - [copy] Copying 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets
+[2021-09-26 14:50:31.621] [INFO] ci - Trying to override old definition of task escapejssource
+[2021-09-26 14:50:31.761] [INFO] ci - copy-appsrc:
+[2021-09-26 14:50:31.884] [INFO] ci - compress:
+[2021-09-26 14:50:31.885] [INFO] ci - [echo] Compressing the android SampleJenkins application
+[2021-09-26 14:50:31.885] [INFO] ci - [delete] Deleting directory D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification
+[2021-09-26 14:50:32.052] [INFO] ci - [mkdir] Created dir: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification
+[2021-09-26 14:50:32.055] [INFO] ci - [mkdir] Created dir: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\startup
+[2021-09-26 14:50:32.056] [INFO] ci - 
+[2021-09-26 14:50:32.060] [INFO] ci - [copy] Copying 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\startup
+[2021-09-26 14:50:32.095] [INFO] ci - [mkdir] Created dir: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require
+[2021-09-26 14:50:32.104] [INFO] ci - [copy] Copying 11 files to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require
+[2021-09-26 14:50:32.245] [INFO] ci - [mkdir] Created dir: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\default
+[2021-09-26 14:50:32.249] [INFO] ci - [copy] Copying 6 files to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\default
+[2021-09-26 14:50:32.250] [INFO] ci - 
+[2021-09-26 14:50:32.319] [INFO] ci - [echo] enableawssdk = false
+[2021-09-26 14:50:32.319] [INFO] ci - [echo]  awssdkfileloc = ${awssdkfileloc}
+[2021-09-26 14:50:32.321] [INFO] ci - [mkdir] Created dir: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\extres
+[2021-09-26 14:50:32.336] [INFO] ci - [copy] Copying 5 files to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\extres
+[2021-09-26 14:50:32.946] [INFO] ci - zip_individual_files:
+[2021-09-26 14:50:32.990] [INFO] ci - zip_individual_files:
+[2021-09-26 14:50:32.992] [INFO] ci - zip_individual_files:
+[2021-09-26 14:50:33.028] [INFO] ci - zip_individual_files:
+[2021-09-26 14:50:33.038] [INFO] ci - zip_individual_files:
+[2021-09-26 14:50:33.051] [INFO] ci - zip_individual_files:
+[2021-09-26 14:50:33.052] [INFO] ci - zip_individual_files:
+[2021-09-26 14:50:33.131] [INFO] ci - zip_individual_files:
+[2021-09-26 14:50:33.139] [INFO] ci - [zip] Building zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require\com\konymp\E2ECard\E2ECard.js.zip
+[2021-09-26 14:50:33.145] [INFO] ci - zip_individual_files:
+[2021-09-26 14:50:33.149] [INFO] ci - 
+[2021-09-26 14:50:33.163] [INFO] ci - zip_individual_files:
+[2021-09-26 14:50:33.163] [INFO] ci - [zip] Building zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require\com\konymp\E2ECard\E2ECardController.js.zip
+[2021-09-26 14:50:33.165] [INFO] ci - zip_individual_files:
+[2021-09-26 14:50:33.165] [INFO] ci - 
+[2021-09-26 14:50:33.170] [INFO] ci - [zip] Building zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require\Form1.js.zip
+[2021-09-26 14:50:33.171] [INFO] ci - 
+[2021-09-26 14:50:33.173] [INFO] ci - [zip] Building zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require\applicationController.js.zip
+[2021-09-26 14:50:33.174] [INFO] ci - [zip] Building zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require\flxSectionHeaderTemplateController.js.zip
+[2021-09-26 14:50:33.174] [INFO] ci - [zip] Building zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require\flxSampleRowTemplate.js.zip
+[2021-09-26 14:50:33.178] [INFO] ci - [zip] Building zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require\Form1Controller.js.zip
+      [zip] Building zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require\konympcarousel1flx.js.zip
+[2021-09-26 14:50:33.179] [INFO] ci - [zip] Building zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require\flxSectionHeaderTemplate.js.zip
+[2021-09-26 14:50:33.180] [INFO] ci - 
+[2021-09-26 14:50:33.180] [INFO] ci - [zip] Building zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require\konympcarousel1flxController.js.zip
+      [zip] Building zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require\flxSampleRowTemplateController.js.zip
+[2021-09-26 14:50:33.228] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require
+[2021-09-26 14:50:33.234] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require
+[2021-09-26 14:50:33.237] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require
+[2021-09-26 14:50:33.239] [INFO] ci - 
+[2021-09-26 14:50:33.241] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require
+[2021-09-26 14:50:33.242] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require\com\konymp\E2ECard
+[2021-09-26 14:50:33.253] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require
+[2021-09-26 14:50:33.254] [INFO] ci - 
+[2021-09-26 14:50:33.262] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require
+[2021-09-26 14:50:33.263] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require
+[2021-09-26 14:50:33.302] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require
+[2021-09-26 14:50:33.345] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require
+[2021-09-26 14:50:33.351] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\minification\require\com\konymp\E2ECard
+[2021-09-26 14:50:33.393] [INFO] ci - [delete] Deleting directory D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js
+[2021-09-26 14:50:33.394] [INFO] ci - 
+[2021-09-26 14:50:33.553] [INFO] ci - [mkdir] Created dir: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js
+[2021-09-26 14:50:33.731] [INFO] ci - copy-webassets:
+[2021-09-26 14:50:33.734] [INFO] ci - 
+[2021-09-26 14:50:33.736] [INFO] ci - [echo] Copying the web assets from D:/Personel/Quantam Fabric/SampleJenkins
+[2021-09-26 14:50:33.737] [INFO] ci - 
+[2021-09-26 14:50:33.904] [INFO] ci - gen-ffi-loading:
+[2021-09-26 14:50:34.078] [INFO] ci - zip-common-jslibs:
+[2021-09-26 14:50:34.080] [INFO] ci - 
+[2021-09-26 14:50:34.119] [INFO] ci - [zip] Building zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\common-jslibs.kfm
+[2021-09-26 14:50:34.344] [INFO] ci - [zip] Updating zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\common-jslibs.kfm
+[2021-09-26 14:50:34.346] [INFO] ci - 
+[2021-09-26 14:50:34.601] [INFO] ci - zip-paas-jslib:
+[2021-09-26 14:50:34.619] [INFO] ci - [zip] Building zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\paas.kfm
+[2021-09-26 14:50:34.761] [INFO] ci - zip-workerthreads:
+[2021-09-26 14:50:34.892] [INFO] ci - gen-zip-files:
+[2021-09-26 14:50:34.994] [INFO] ci - gen-js-zip-files:
+[2021-09-26 14:50:35.000] [INFO] ci - [zip] Building zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\startup.js
+[2021-09-26 14:50:35.071] [INFO] ci - [zip] Updating zip: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\startup.js
+[2021-09-26 14:50:35.237] [INFO] ci - [copy] Copying 11 files to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\require
+[2021-09-26 14:50:35.581] [INFO] ci - encrypt-zip-files:
+[2021-09-26 14:50:35.590] [INFO] ci - [touch] Creating D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\requirefileslist.txt
+[2021-09-26 14:50:37.221] [INFO] ci - [exec]
+[2021-09-26 14:50:37.222] [INFO] ci - [exec] Execution time = 0.000000
+[2021-09-26 14:50:37.230] [INFO] ci - [echo] 
+     [echo]  exit Code:=0
+[2021-09-26 14:50:37.262] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js
+[2021-09-26 14:50:37.267] [INFO] ci - 
+[2021-09-26 14:50:37.282] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js
+[2021-09-26 14:50:37.283] [INFO] ci - 
+[2021-09-26 14:50:37.315] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\require
+[2021-09-26 14:50:37.330] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\require
+[2021-09-26 14:50:37.331] [INFO] ci - 
+[2021-09-26 14:50:37.347] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\require
+[2021-09-26 14:50:37.348] [INFO] ci - 
+[2021-09-26 14:50:37.362] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\require\com\konymp\E2ECard
+[2021-09-26 14:50:37.379] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\require\com\konymp\E2ECard
+[2021-09-26 14:50:37.398] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\require
+[2021-09-26 14:50:37.409] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\require
+[2021-09-26 14:50:37.421] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\require
+[2021-09-26 14:50:37.432] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\require
+[2021-09-26 14:50:37.443] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\require
+[2021-09-26 14:50:37.454] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\require
+[2021-09-26 14:50:37.467] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js
+[2021-09-26 14:50:37.479] [INFO] ci - [delete] Deleting: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\requirefileslist.txt
+[2021-09-26 14:50:37.537] [INFO] ci - [copy] Copying 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\fonts
+[2021-09-26 14:50:37.564] [INFO] ci - [echo] Copying theme files
+[2021-09-26 14:50:37.574] [INFO] ci - [copy] Copying 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets
+[2021-09-26 14:50:37.604] [INFO] ci - [echo] hybridmode..........native
+[2021-09-26 14:50:37.633] [INFO] ci - copynativeresources:
+[2021-09-26 14:50:37.634] [INFO] ci - [echo] Copying the native resources to android assets
+[2021-09-26 14:50:37.645] [INFO] ci - [copy] Copying 43 files to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\res\drawable
+[2021-09-26 14:50:38.141] [INFO] ci - [copy] Warning: D:\Personel\Quantam Fabric\SampleJenkins\resources\common\videos does not exist.
+[2021-09-26 14:50:38.143] [INFO] ci - 
+[2021-09-26 14:50:38.189] [INFO] ci - [copy] Copying 14 files to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\res\drawable
+[2021-09-26 14:50:38.407] [INFO] ci - [copy] Copying 36 files to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\res
+[2021-09-26 14:50:40.495] [INFO] ci - [java] XMLMerging Started sourceFolderPath = D:/Personel/Quantam Fabric/SampleJenkins/resources/mobile/native/android destFolderPath = D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid/dist/SampleJenkins/resNo of Files to merge = 4
+[2021-09-26 14:50:40.496] [INFO] ci - [java] XMLMerging Completed
+[2021-09-26 14:50:40.622] [INFO] ci - copyninepatchimages:
+[2021-09-26 14:50:40.624] [INFO] ci - 
+[2021-09-26 14:50:40.626] [INFO] ci - [echo] Copying the nine patch images and delete the actual png image in android drawable folder
+[2021-09-26 14:50:40.684] [INFO] ci - check-for-actual-png-file:
+[2021-09-26 14:50:40.720] [INFO] ci - check-for-actual-png-file:
+[2021-09-26 14:50:40.760] [INFO] ci - renamelaunchericon:
+[2021-09-26 14:50:40.784] [INFO] ci - [copy] Copying 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\res\drawable
+[2021-09-26 14:50:40.812] [INFO] ci - [echo] Copying third party libraries
+[2021-09-26 14:50:40.814] [INFO] ci - 
+[2021-09-26 14:50:40.835] [INFO] ci - [copy] Copying 7 files to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\libs
+[2021-09-26 14:50:40.836] [INFO] ci - 
+[2021-09-26 14:50:40.973] [INFO] ci - [echo] Copying ffi templates to src folder
+[2021-09-26 14:50:41.026] [INFO] ci - [copy] Copying 2 files to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\src
+[2021-09-26 14:50:41.029] [INFO] ci - 
+[2021-09-26 14:50:41.104] [INFO] ci - [echo] No custom widget libraries found
+[2021-09-26 14:50:41.106] [INFO] ci - [echo] thirdparty dir::::D:/Personel/Quantam Fabric/SampleJenkins/nativebindings/Android/4.0/Kony_FileStorage-Android-4.0.zip,D:/Personel/Quantam Fabric/SampleJenkins/nativebindings/Android/4.0/Kony_SDKCommons-Android-4.0.zip,D:/Personel/Quantam Fabric/SampleJenkins/nativebindings/Android/4.0/Kony_SyncV2-Android-4.0.zip
+[2021-09-26 14:50:41.107] [INFO] ci - 
+[2021-09-26 14:50:41.120] [INFO] ci - [echo] unziping zip file::::D:/Personel/Quantam Fabric/SampleJenkins/nativebindings/Android/4.0/Kony_FileStorage-Android-4.0.zip
+[2021-09-26 14:50:41.121] [INFO] ci - 
+[2021-09-26 14:50:41.125] [INFO] ci - [unzip] Expanding: D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\Android\4.0\Kony_FileStorage-Android-4.0.zip into D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\libs
+[2021-09-26 14:50:41.237] [INFO] ci - [echo] unziping zip file::::D:/Personel/Quantam Fabric/SampleJenkins/nativebindings/Android/4.0/Kony_SDKCommons-Android-4.0.zip
+[2021-09-26 14:50:41.239] [INFO] ci - 
+[2021-09-26 14:50:41.243] [INFO] ci - [unzip] Expanding: D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\Android\4.0\Kony_SDKCommons-Android-4.0.zip into D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\libs
+[2021-09-26 14:50:41.380] [INFO] ci - [echo] unziping zip file::::D:/Personel/Quantam Fabric/SampleJenkins/nativebindings/Android/4.0/Kony_SyncV2-Android-4.0.zip
+[2021-09-26 14:50:41.382] [INFO] ci - [unzip] Expanding: D:\Personel\Quantam Fabric\SampleJenkins\nativebindings\Android\4.0\Kony_SyncV2-Android-4.0.zip into D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\libs
+[2021-09-26 14:50:41.542] [INFO] ci - precompile:
+[2021-09-26 14:50:41.543] [INFO] ci - 
+[2021-09-26 14:50:41.544] [INFO] ci - [echo] No precompile task present
+[2021-09-26 14:50:41.544] [INFO] ci - CheckForLicenses:
+[2021-09-26 14:50:41.545] [INFO] ci - 
+[2021-09-26 14:50:41.560] [INFO] ci - init:
+[2021-09-26 14:50:41.690] [INFO] ci - CreateLicenseIfNotExist:
+[2021-09-26 14:50:41.706] [INFO] ci - checkForInputs:
+[2021-09-26 14:50:41.711] [INFO] ci - [echo]  current directory D:\Personel\Quantam Fabric\bundles\com.pat.android\luaandroid\extres
+[2021-09-26 14:50:41.712] [INFO] ci - [echo] CreateLicenseIfNotExist called
+[2021-09-26 14:50:41.714] [INFO] ci - [echo] license exists true
+[2021-09-26 14:50:41.729] [INFO] ci - update_license_if_already_exist:
+[2021-09-26 14:50:41.806] [INFO] ci - gradleTask:
+[2021-09-26 14:50:41.812] [INFO] ci - 
+[2021-09-26 14:50:41.813] [INFO] ci - configureReleaseSignInfo:
+[2021-09-26 14:50:41.816] [INFO] ci - compile:
+[2021-09-26 14:50:41.869] [INFO] ci - calculateChecksum:
+[2021-09-26 14:50:41.910] [INFO] ci - Trying to override old definition of task escapejssource
+[2021-09-26 14:50:41.912] [INFO] ci - 
+[2021-09-26 14:50:42.076] [INFO] ci - encrypt-assets-hash-file:
+[2021-09-26 14:50:43.556] [INFO] ci - [java]
+[2021-09-26 14:50:43.560] [INFO] ci - [java] Total Time Taken: 357
+[2021-09-26 14:50:43.635] [INFO] ci - encrypt-zip-files:
+[2021-09-26 14:50:43.636] [INFO] ci - [touch] Creating D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\requirefileslist.txt
+[2021-09-26 14:50:43.637] [INFO] ci - 
+[2021-09-26 14:50:44.136] [INFO] ci - [exec]
+[2021-09-26 14:50:44.136] [INFO] ci - [exec] Execution time = 0.000000
+[2021-09-26 14:50:44.146] [INFO] ci - [echo]
+[2021-09-26 14:50:44.147] [INFO] ci - [echo]  exit Code:=0
+[2021-09-26 14:50:44.165] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets
+[2021-09-26 14:50:44.175] [INFO] ci - [move] Moving 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets
+[2021-09-26 14:50:44.184] [INFO] ci - [delete] Deleting: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\assets\js\requirefileslist.txt
+[2021-09-26 14:50:44.201] [INFO] ci - buildapk:
+[2021-09-26 14:50:44.201] [INFO] ci - [echo] Java Path used by Gradle: C:/Program Files/Java/jdk-11.0.12
+[2021-09-26 14:50:44.202] [INFO] ci - [echo] Gradle Path : 
+     [echo] Packaging the android SampleJenkins application
+[2021-09-26 14:50:44.202] [INFO] ci - 
+[2021-09-26 14:50:44.204] [INFO] ci - [echo] Substituting drive
+[2021-09-26 14:50:44.832] [INFO] ci - [java] Substituting DriveSubstituting DriveRunning command =SUBST A: "D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid/dist/SampleJenkins/.."
+[2021-09-26 14:50:45.483] [INFO] ci - [java]
+[2021-09-26 14:50:45.484] [INFO] ci - [java] Process Exit status = 0
+     [java] Success. Drive Substituted and UniqCodeFile [A:\SampleJenkins\SampleJenkins-Mobile-20210926145000044.txt] found.
+[2021-09-26 14:50:45.527] [INFO] ci - [echo] subst-drive length 1 A
+[2021-09-26 14:50:45.528] [INFO] ci - [echo] app-build.dir is  A:\SampleJenkins
+[2021-09-26 14:50:45.528] [INFO] ci - [echo] isInternetConnectionAvailable ${isInternetConnectionAvailable}
+     [echo] plugin loc D:/Personel/Quantam Fabric/bundles/com.pat.tool.keditor
+[2021-09-26 14:50:45.529] [INFO] ci - [echo] A:\SampleJenkins/gradlew -version
+[2021-09-26 14:50:45.532] [INFO] ci - [exec-shell] cmdl.getCommandline(): [Ljava.lang.String;@4426bff1
+[2021-09-26 14:50:45.534] [INFO] ci - [exec-shell] 
+[exec-shell] ***********cmd.exe
+[exec-shell] 
+[exec-shell] ***********/c
+[exec-shell] 
+[exec-shell] ***********""A:\SampleJenkins/gradlew" -version"
+[exec-shell] 
+[exec-shell] ***********cmd.exe
+[2021-09-26 14:50:47.968] [INFO] ci - [exec-shell]
+[2021-09-26 14:50:47.969] [INFO] ci - [exec-shell] ------------------------------------------------------------
+[exec-shell] Gradle 6.5
+[exec-shell] ------------------------------------------------------------
+[exec-shell] 
+[exec-shell] Build time:   2020-06-02 20:46:21 UTC
+[exec-shell] Revision:     a27f41e4ae5e8a41ab9b19f8dd6d86d7b384dad4
+[exec-shell] 
+[exec-shell] Kotlin:       1.3.72
+[exec-shell] Groovy:       2.5.11
+[exec-shell] Ant:          Apache Ant(TM) version 1.10.7 compiled on September 1 2019
+[2021-09-26 14:50:47.969] [INFO] ci - [exec-shell] JVM:          11.0.12 (Oracle Corporation 11.0.12+8-LTS-237)
+[exec-shell] OS:           Windows 10 10.0 amd64
+[exec-shell]
+[2021-09-26 14:50:48.026] [INFO] ci - [delete] Deleting: D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist\SampleJenkins\outputAPKVariants.properties
+[2021-09-26 14:50:48.033] [INFO] ci - [exec-shell] cmdl.getCommandline(): [Ljava.lang.String;@21fd5faa
+[exec-shell]
+[2021-09-26 14:50:48.033] [INFO] ci - [exec-shell] ***********cmd.exe
+[exec-shell] 
+[exec-shell] ***********/c
+[exec-shell] 
+[exec-shell] ***********""A:\SampleJenkins/gradlew" assembleRelease  -b "A:\SampleJenkins/build.gradle""
+[exec-shell] 
+[exec-shell] ***********cmd.exe
+[2021-09-26 14:50:55.677] [INFO] ci - [exec-shell] Starting a Gradle Daemon, 1 incompatible Daemon could not be reused, use --status for details
+[2021-09-26 14:51:19.297] [INFO] ci - [exec-shell] 
+[exec-shell] > Configure project :
+[2021-09-26 14:51:19.298] [INFO] ci - [exec-shell] WARNING: The option setting 'android.enableR8=false' is deprecated.
+[exec-shell] It will be removed in version 5.0 of the Android Gradle plugin.
+[exec-shell] You will no longer be able to disable R8
+[2021-09-26 14:51:23.964] [INFO] ci - [exec-shell] debug=A:\SampleJenkins\build\outputs\apk\debug\SampleJenkins-debug.apk
+[2021-09-26 14:51:23.966] [INFO] ci - 
+[2021-09-26 14:51:23.967] [INFO] ci - [exec-shell] release=A:\SampleJenkins\build\outputs\apk\release\SampleJenkins-release-unsigned.apk
+[2021-09-26 14:52:03.419] [INFO] ci - [exec-shell] 
+[exec-shell] > Task :preBuild UP-TO-DATE
+[2021-09-26 14:52:03.422] [INFO] ci - [exec-shell] > Task :preReleaseBuild UP-TO-DATE
+[2021-09-26 14:52:03.546] [INFO] ci - [exec-shell] > Task :compileReleaseAidl NO-SOURCE
+[2021-09-26 14:52:03.974] [INFO] ci - [exec-shell] > Task :generateReleaseBuildConfig
+[2021-09-26 14:52:06.361] [INFO] ci - [exec-shell]
+[2021-09-26 14:52:06.361] [INFO] ci - [exec-shell] > Task :compileReleaseRenderscript
+[2021-09-26 14:52:06.391] [INFO] ci - [exec-shell] warning: Linking two modules of different target triples: C:\Users\shireesh.daita\AppData\Local\Android\Sdk\build-tools\29.0.2\renderscript\lib\bc\arm64-v8a\libclcore.bc' is 'aarch64--linux-android' whereas 'A:\SampleJenkins\build\generated\res\rs\release\raw\bc64\colorclamp.bc' is 'aarch64-none-linux-gnueabi'
+[2021-09-26 14:52:06.392] [INFO] ci - [exec-shell] 
+[exec-shell]
+[2021-09-26 14:52:06.500] [INFO] ci - [exec-shell] warning: Linking two modules of different target triples: C:\Users\shireesh.daita\AppData\Local\Android\Sdk\build-tools\29.0.2\renderscript\lib\bc\arm64-v8a\libclcore.bc' is 'aarch64--linux-android' whereas 'A:\SampleJenkins\build\generated\res\rs\release\raw\bc64\brightness.bc' is 'aarch64-none-linux-gnueabi'
+[2021-09-26 14:52:06.501] [INFO] ci - [exec-shell] 
+[exec-shell] 
+[exec-shell] warning: Linking two modules of different target triples: C:\Users\shireesh.daita\AppData\Local\Android\Sdk\build-tools\29.0.2\renderscript\lib\bc\arm64-v8a\libclcore.bc' is 'aarch64--linux-android' whereas 'A:\SampleJenkins\build\generated\res\rs\release\raw\bc64\convolve.bc' is 'aarch64-none-linux-gnueabi'
+[exec-shell] 
+[exec-shell]
+[2021-09-26 14:52:07.694] [INFO] ci - [exec-shell]
+[2021-09-26 14:52:07.695] [INFO] ci - 
+[2021-09-26 14:52:07.733] [INFO] ci - [exec-shell] > Task :javaPreCompileRelease
+[2021-09-26 14:52:07.742] [INFO] ci - 
+[2021-09-26 14:52:08.641] [INFO] ci - [exec-shell] > Task :generateReleaseResValues
+[2021-09-26 14:52:08.642] [INFO] ci - [exec-shell] > Task :generateReleaseResources
+[2021-09-26 14:52:28.408] [INFO] ci - [exec-shell] > Task :createReleaseCompatibleScreenManifests
+[2021-09-26 14:52:28.410] [INFO] ci - 
+[2021-09-26 14:52:28.411] [INFO] ci - [exec-shell] > Task :extractDeepLinksRelease
+[2021-09-26 14:52:31.354] [INFO] ci - [exec-shell]
+[2021-09-26 14:52:31.356] [INFO] ci - 
+[2021-09-26 14:52:31.358] [INFO] ci - [exec-shell] > Task :processReleaseManifest
+[2021-09-26 14:52:31.359] [INFO] ci - 
+[2021-09-26 14:52:31.360] [INFO] ci - [exec-shell] A:\SampleJenkins\AndroidManifest.xml:56:2-92 Warning:
+[2021-09-26 14:52:31.364] [INFO] ci - [exec-shell] 	Element uses-permission#android.permission.ACCESS_NETWORK_STATE at AndroidManifest.xml:56:2-92 duplicated with element declared at AndroidManifest.xml:54:2-75
+[2021-09-26 14:52:31.365] [INFO] ci - [exec-shell] A:\SampleJenkins\AndroidManifest.xml:6:5-46:16 Warning:
+[2021-09-26 14:52:31.366] [INFO] ci - [exec-shell] 	application@tools:supportsRtl was tagged at AndroidManifest.xml:6 to remove other declarations but no other declaration present
+[2021-09-26 14:52:31.367] [INFO] ci - 
+[2021-09-26 14:52:31.374] [INFO] ci - [exec-shell] A:\SampleJenkins\AndroidManifest.xml:6:5-46:16 Warning:
+[2021-09-26 14:52:31.375] [INFO] ci - [exec-shell] 	application@tools:icon was tagged at AndroidManifest.xml:6 to replace other declarations but no other declaration present
+[2021-09-26 14:52:32.486] [INFO] ci - [exec-shell]
+[2021-09-26 14:52:32.487] [INFO] ci - [exec-shell] > Task :prepareLintJar
+[2021-09-26 14:52:38.723] [INFO] ci - [exec-shell] > Task :mergeReleaseResources
+[2021-09-26 14:53:00.085] [INFO] ci - [exec-shell] > Task :checkReleaseDuplicateClasses
+[2021-09-26 14:53:25.814] [INFO] ci - [exec-shell] > Task :processReleaseResources
+[2021-09-26 14:53:25.815] [INFO] ci - 
+[2021-09-26 14:53:45.580] [INFO] ci - [exec-shell] Note: Some input files use unchecked or unsafe operations.
+[2021-09-26 14:53:45.581] [INFO] ci - [exec-shell] Note: Recompile with -Xlint:unchecked for details.
+[exec-shell] 
+[exec-shell] > Task :compileReleaseJavaWithJavac
+[2021-09-26 14:53:50.603] [INFO] ci - [exec-shell]
+[2021-09-26 14:53:50.604] [INFO] ci - [exec-shell] > Task :compileReleaseSources
+[2021-09-26 14:54:20.589] [INFO] ci - [exec-shell] > Task :lintVitalRelease
+[2021-09-26 14:54:49.040] [INFO] ci - [exec-shell] > Task :dexBuilderRelease
+[2021-09-26 14:54:49.042] [INFO] ci - 
+[2021-09-26 14:55:12.821] [INFO] ci - [exec-shell] > Task :mergeReleaseShaders
+[2021-09-26 14:55:13.312] [INFO] ci - [exec-shell] > Task :compileReleaseShaders NO-SOURCE
+[2021-09-26 14:55:13.312] [INFO] ci - 
+[2021-09-26 14:55:13.475] [INFO] ci - [exec-shell] > Task :generateReleaseAssets UP-TO-DATE
+[2021-09-26 14:55:13.483] [INFO] ci - 
+[2021-09-26 14:55:17.212] [INFO] ci - [exec-shell] > Task :mergeReleaseAssets
+[2021-09-26 14:55:17.215] [INFO] ci - 
+[2021-09-26 14:55:30.110] [INFO] ci - [exec-shell] > Task :desugarReleaseFileDependencies
+[2021-09-26 14:55:30.384] [INFO] ci - [exec-shell] > Task :processReleaseJavaRes
+[2021-09-26 14:55:30.386] [INFO] ci - 
+[2021-09-26 14:55:45.215] [INFO] ci - [exec-shell] > Task :collectReleaseDependencies
+[2021-09-26 14:55:45.216] [INFO] ci - 
+[2021-09-26 14:55:46.530] [INFO] ci - [exec-shell] > Task :sdkReleaseDependencyData
+[2021-09-26 14:55:46.532] [INFO] ci - 
+[2021-09-26 14:55:50.013] [INFO] ci - [exec-shell] > Task :mergeReleaseJniLibFolders
+[2021-09-26 14:55:50.017] [INFO] ci - 
+[2021-09-26 14:56:00.289] [INFO] ci - [exec-shell] > Task :mergeReleaseJavaResource
+[2021-09-26 14:56:00.290] [INFO] ci - 
+[2021-09-26 14:56:13.130] [INFO] ci - [exec-shell] > Task :mergeReleaseNativeLibs
+[2021-09-26 14:56:13.134] [INFO] ci - 
+[2021-09-26 14:56:14.887] [INFO] ci - [exec-shell]
+[2021-09-26 14:56:14.889] [INFO] ci - [exec-shell] > Task :stripReleaseDebugSymbols
+[exec-shell] WARNING: Compatible side by side NDK version was not found. Default is 21.0.6113669.
+[exec-shell] Compatible side by side NDK version was not found. Default is 21.0.6113669.
+[exec-shell] Unable to strip the following libraries, packaging them as they are: libRSSupport.so, libc++_shared.so, libkonyjsvm.so, librs.brightness.so, librs.colorclamp.so, librs.convolve.so, librsjni.so, librsjni_androidx.so.
+[2021-09-26 14:56:15.103] [INFO] ci - [exec-shell]
+[2021-09-26 14:56:15.104] [INFO] ci - [exec-shell] > Task :mergeExtDexRelease
+[2021-09-26 14:56:20.821] [INFO] ci - [exec-shell] > Task :mergeDexRelease
+[2021-09-26 14:56:48.665] [INFO] ci - [exec-shell] > Task :packageRelease
+[2021-09-26 14:56:48.666] [INFO] ci - [exec-shell] > Task :assembleRelease
+[2021-09-26 14:56:48.774] [INFO] ci - [exec-shell]
+[2021-09-26 14:56:48.775] [INFO] ci - [exec-shell] Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.
+[exec-shell] Use '--warning-mode all' to show the individual deprecation warnings.
+[exec-shell] See https://docs.gradle.org/6.5/userguide/command_line_interface.html#sec:command_line_warnings
+[exec-shell] 
+[exec-shell] BUILD SUCCESSFUL in 5m 59s
+[exec-shell] 27 actionable tasks: 27 executed
+[2021-09-26 14:56:48.931] [INFO] ci - signApk:
+[2021-09-26 14:56:48.932] [INFO] ci - [echo] Release apk signing started.
+[2021-09-26 14:56:48.936] [INFO] ci - [copy] Copying 1 file to A:\SampleJenkins\build\outputs\apk\debug
+[2021-09-26 14:56:48.985] [INFO] ci - [echo] Invoking APKSigner.jar to sign apk
+[2021-09-26 14:56:49.708] [INFO] ci - [java] Getting .andorid folder location
+[2021-09-26 14:56:49.709] [INFO] ci - [java] Checking key folder Path = C:\Users\shireesh.daita\.android
+     [java] Debug key exists at C:\Users\shireesh.daita\.android\debug.keystore
+     [java] Debug Key not expired
+     [java] Signing the Apk=A://SampleJenkins//build//outputs//apk//debug//SampleJenkins-debug.apk with debugkey=C:\Users\shireesh.daita\.android\debug.keystore
+     [java] Running command =C:/Users/shireesh.daita/AppData/Local/Android/Sdk\build-tools\29.0.2\apksigner.bat sign --ks C:\Users\shireesh.daita\.android\debug.keystore --ks-pass pass:android --key-pass pass:android --ks-key-alias androiddebugkey A://SampleJenkins//build//outputs//apk//debug//SampleJenkins-debug.apk
+[2021-09-26 14:57:09.106] [INFO] ci - [java]
+[2021-09-26 14:57:09.107] [INFO] ci - [java] Process Exit status = 0
+     [java] Signed the Apk=A://SampleJenkins//build//outputs//apk//debug//SampleJenkins-debug.apk	using debugkey=C:\Users\shireesh.daita\.android\debug.keystore
+[2021-09-26 14:57:09.216] [INFO] ci - publish:
+[2021-09-26 14:57:09.220] [INFO] ci - [echo] Preparing the package for publish
+[2021-09-26 14:57:09.221] [INFO] ci - 
+[2021-09-26 14:57:09.232] [INFO] ci - [copy] Copying 1 file to D:\Personel\Quantam Fabric\temp\SampleJenkins\build\luaandroid\dist
+[2021-09-26 14:57:10.033] [INFO] ci - [java] unSubstituting DriveUnsubstituting Drive ARunning command =SUBST A: /d
+[2021-09-26 14:57:10.248] [INFO] ci - [java]
+[2021-09-26 14:57:10.251] [INFO] ci - [java] Process Exit status = 0
+[2021-09-26 14:57:10.270] [INFO] ci - [java] Unsubstitution successful for Drive A
+[2021-09-26 14:57:10.270] [INFO] ci - postcompile:
+[2021-09-26 14:57:10.271] [INFO] ci - [echo] No postcompile task present
+[2021-09-26 14:57:10.272] [INFO] ci - all:
+[2021-09-26 14:57:10.274] [INFO] ci - BUILD SUCCESSFUL
+Total time: 6 minutes 47 seconds
+[2021-09-26 14:57:10.442] [INFO] ci - Platform:android , build status : COMPLETED
+[2021-09-26 14:57:10.551] [INFO] ci - Binary successfully copied to D:\Personel\Quantam Fabric\SampleJenkins\binaries\android\SampleJenkins-release.apk
+[2021-09-26 14:57:10.559] [INFO] ci - Done!
+[2021-09-26 14:57:10.562] [INFO] ci - 
+
+----------------------------------------------------------------
+BUILD SUMMARY
+----------------------------------------------------------------
+android ..................... COMPLETED [409.435 s]
+Fabric App .................. Not Published
+Total time .................. 00:07:25.598
+Finished at ................. "2021-09-26T07:57:10.559Z"
+Dist ........................ D:\Personel\Quantam Fabric\SampleJenkins\binaries
+Build summary file .......... D:\Personel\Quantam Fabric\SampleJenkins\.cilogs\BuildResult.json
+----------------------------------------------------------------

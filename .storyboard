@@ -1,0 +1,18 @@
+{
+    "models": {
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [],
+            "nodeDataArray": [
+                {
+                    "formKUID": "bebc32784fba4cda8ca93e04f0fb5561",
+                    "formName": "Form1",
+                    "isStartupForm": true,
+                    "key": "bebc32784fba4cda8ca93e04f0fb5561",
+                    "loc": "8 24.845263671875003",
+                    "thumbnailURL": "/assets/SampleJenkins/forms/mobile/Form1.sm/.thumbs/default.jpeg"
+                }
+            ]
+        }
+    }
+}

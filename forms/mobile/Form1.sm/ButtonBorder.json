@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "s4fdd45d7372452d8f18eace6c7e866f",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0fb9562105140c3b64f09729b2cea7c",
+    "id": "ButtonBorder",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bb4e5d8f32a047c198730d7b57952705",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "BorderButtonRound",
+    "pf": "Form1",
+    "wType": "Button",
+    "zindex": 1
+}
